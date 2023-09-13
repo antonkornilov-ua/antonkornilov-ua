@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm <a href="https://www.linkedin.com/in/anton-kornilov-b9296323a/" target="_blank">Anton</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Ukraine 🇺🇦 in search of new opportunities</h3>
+<h3 align="center">Frontend developer from Ukraine in search of new opportunities</h3>
 <hr/>
 
 <!-- Skills -->
